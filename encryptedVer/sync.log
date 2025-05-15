@@ -1,0 +1,354 @@
+2025-05-07 23:43:51,349 - sync - INFO - Data encryption enabled for sync
+2025-05-07 23:43:51,350 - sync - INFO - Starting sync to offline database
+2025-05-07 23:43:51,715 - sync - ERROR - Sync error: no such table: activeusers
+2025-05-07 23:44:19,444 - sync - INFO - Data encryption enabled for sync
+2025-05-07 23:44:19,445 - sync - INFO - Starting sync to offline database
+2025-05-07 23:44:19,732 - sync - INFO - Offloaded 0 logs...
+2025-05-07 23:44:57,307 - sync - INFO - Data encryption enabled for sync
+2025-05-07 23:44:57,386 - terminal - INFO - Data encryption enabled
+2025-05-07 23:46:19,100 - sync - INFO - Data encryption enabled for sync
+2025-05-07 23:46:19,101 - terminal - INFO - Data encryption enabled
+2025-05-07 23:46:19,455 - terminal - INFO - Secure offline database initialized
+2025-05-07 23:46:19,671 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-07 23:46:19,830 - terminal - ERROR - WebSocket connection error: 
+2025-05-08 00:17:54,946 - sync - INFO - Data encryption enabled for sync
+2025-05-08 00:17:54,949 - terminal - INFO - Data encryption enabled
+2025-05-08 00:18:00,788 - sync - INFO - Data encryption enabled for sync
+2025-05-08 00:18:00,789 - terminal - INFO - Data encryption enabled
+2025-05-08 00:18:01,125 - terminal - INFO - Secure offline database initialized
+2025-05-08 00:18:01,179 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 00:18:01,302 - terminal - ERROR - WebSocket connection error: 
+2025-05-08 00:20:53,559 - sync - INFO - Data encryption enabled for sync
+2025-05-08 00:20:53,560 - terminal - INFO - Data encryption enabled
+2025-05-08 00:20:53,869 - terminal - INFO - Secure offline database initialized
+2025-05-08 00:20:53,888 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 00:20:54,019 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 00:20:54,023 - terminal - INFO - Authentication successful
+2025-05-08 00:20:54,027 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 00:21:08,836 - sync - INFO - Starting sync to offline database
+2025-05-08 00:21:08,918 - sync - INFO - Offloaded 0 logs...
+2025-05-08 00:21:08,925 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 00:21:31,320 - sync - INFO - Data encryption enabled for sync
+2025-05-08 00:21:31,321 - terminal - INFO - Data encryption enabled
+2025-05-08 00:21:31,624 - terminal - INFO - Secure offline database initialized
+2025-05-08 00:21:31,635 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 00:21:31,743 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 00:21:31,746 - terminal - INFO - Authentication successful
+2025-05-08 00:21:31,748 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 00:21:34,799 - sync - INFO - Starting sync to offline database
+2025-05-08 00:21:34,865 - sync - INFO - Offloaded 0 logs...
+2025-05-08 00:21:34,873 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 00:24:48,013 - sync - INFO - Data encryption enabled for sync
+2025-05-08 00:24:48,014 - terminal - INFO - Data encryption enabled
+2025-05-08 00:24:48,329 - terminal - INFO - Secure offline database initialized
+2025-05-08 00:24:48,354 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 00:24:48,468 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 00:24:48,471 - terminal - INFO - Authentication successful
+2025-05-08 00:24:48,477 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 00:25:02,401 - terminal - WARNING - Server disconnected
+2025-05-08 00:25:03,485 - terminal - ERROR - Heartbeat failed: no close frame received or sent
+2025-05-08 06:51:28,133 - sync - INFO - Data encryption enabled for sync
+2025-05-08 06:51:28,135 - terminal - INFO - Data encryption enabled
+2025-05-08 06:51:33,190 - sync - INFO - Data encryption enabled for sync
+2025-05-08 06:51:33,191 - terminal - INFO - Data encryption enabled
+2025-05-08 06:51:33,504 - terminal - INFO - Secure offline database initialized
+2025-05-08 06:51:33,536 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 06:51:33,656 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 06:51:33,659 - terminal - INFO - Authentication successful
+2025-05-08 06:51:33,662 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 06:51:39,498 - sync - INFO - Starting sync to offline database
+2025-05-08 06:51:39,560 - sync - INFO - Offloaded 0 logs...
+2025-05-08 06:51:39,567 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 06:51:44,011 - sync - INFO - Starting sync to offline database
+2025-05-08 06:51:44,072 - terminal - INFO - Reported scan for card 04de83caee6e80
+2025-05-08 06:51:44,075 - sync - INFO - Offloaded 0 logs...
+2025-05-08 06:51:44,083 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 06:52:00,526 - sync - INFO - Starting sync to offline database
+2025-05-08 06:52:00,581 - sync - INFO - Offloaded 0 logs...
+2025-05-08 06:52:00,589 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 06:52:11,883 - sync - INFO - Starting sync to offline database
+2025-05-08 06:52:12,851 - sync - INFO - Offloaded 0 logs...
+2025-05-08 06:52:12,859 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 06:52:17,467 - sync - INFO - Starting sync to offline database
+2025-05-08 06:52:18,209 - sync - INFO - Offloaded 0 logs...
+2025-05-08 06:52:18,218 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 06:52:23,631 - sync - INFO - Starting sync to offline database
+2025-05-08 06:52:23,687 - sync - INFO - Offloaded 0 logs...
+2025-05-08 06:52:23,696 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 06:52:29,319 - sync - INFO - Starting sync to offline database
+2025-05-08 06:52:29,376 - sync - INFO - Offloaded 0 logs...
+2025-05-08 06:52:29,385 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 06:52:43,292 - sync - INFO - Starting sync to offline database
+2025-05-08 06:52:43,351 - terminal - INFO - Reported scan for card 046064caee6e81
+2025-05-08 06:52:43,365 - sync - INFO - Offloaded 0 logs...
+2025-05-08 06:52:43,373 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 06:52:49,439 - sync - INFO - Starting sync to offline database
+2025-05-08 06:52:49,487 - sync - INFO - Offloaded 0 logs...
+2025-05-08 06:52:49,493 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 06:52:58,076 - sync - INFO - Starting sync to offline database
+2025-05-08 06:52:58,136 - sync - INFO - Offloaded 0 logs...
+2025-05-08 06:52:58,140 - terminal - INFO - Reported scan for card 049640caee6e80
+2025-05-08 06:52:58,147 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 06:53:03,059 - sync - INFO - Starting sync to offline database
+2025-05-08 06:53:03,117 - sync - INFO - Offloaded 0 logs...
+2025-05-08 06:53:03,120 - terminal - INFO - Reported scan for card 047919eaee6e80
+2025-05-08 06:53:03,127 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 06:53:06,056 - sync - INFO - Data encryption enabled for sync
+2025-05-08 06:53:06,057 - terminal - INFO - Data encryption enabled
+2025-05-08 06:53:06,365 - terminal - INFO - Secure offline database initialized
+2025-05-08 06:53:06,380 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 06:53:06,507 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 06:53:06,511 - terminal - INFO - Authentication successful
+2025-05-08 06:53:06,514 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 06:57:48,301 - sync - INFO - Data encryption enabled for sync
+2025-05-08 06:57:48,302 - terminal - INFO - Data encryption enabled
+2025-05-08 06:57:48,611 - terminal - INFO - Secure offline database initialized
+2025-05-08 06:57:48,634 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 06:57:48,756 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 06:57:48,759 - terminal - INFO - Authentication successful
+2025-05-08 06:57:48,763 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 06:57:48,807 - terminal - INFO - Received from server: {"status": "received", "echo": {"type": "pending_sync", "terminal_id": "265a35da", "count": 4}}
+2025-05-08 06:58:04,513 - sync - INFO - Data encryption enabled for sync
+2025-05-08 06:58:04,514 - terminal - INFO - Data encryption enabled
+2025-05-08 06:58:04,822 - terminal - INFO - Secure offline database initialized
+2025-05-08 06:58:04,838 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 06:58:04,960 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 06:58:04,963 - terminal - INFO - Authentication successful
+2025-05-08 06:58:04,967 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 06:58:04,969 - terminal - INFO - Received from server: {"status": "received", "echo": {"type": "pending_sync", "terminal_id": "265a35da", "count": 4}}
+2025-05-08 06:58:33,843 - sync - INFO - Data encryption enabled for sync
+2025-05-08 06:58:33,844 - terminal - INFO - Data encryption enabled
+2025-05-08 06:58:34,154 - terminal - INFO - Secure offline database initialized
+2025-05-08 06:58:34,169 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 06:58:34,292 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 06:58:34,295 - terminal - INFO - Authentication successful
+2025-05-08 06:58:34,299 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 06:58:34,300 - terminal - INFO - Received from server: {"status": "received", "echo": {"type": "pending_sync", "terminal_id": "265a35da", "count": 8}}
+2025-05-08 06:58:38,802 - sync - INFO - Starting sync to offline database
+2025-05-08 06:58:39,024 - sync - INFO - Offloaded 8 logs...
+2025-05-08 06:58:39,291 - terminal - INFO - Synced 8 secure offline logs
+2025-05-08 06:59:23,299 - sync - INFO - Starting sync to offline database
+2025-05-08 06:59:23,345 - sync - INFO - Offloaded 0 logs...
+2025-05-08 06:59:23,353 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 06:59:23,361 - terminal - INFO - Reported scan for card 047919eaee6e80
+2025-05-08 06:59:30,102 - sync - INFO - Starting sync to offline database
+2025-05-08 06:59:30,153 - sync - INFO - Offloaded 0 logs...
+2025-05-08 06:59:30,162 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 06:59:30,163 - terminal - INFO - Reported scan for card 04de83caee6e80
+2025-05-08 06:59:35,820 - sync - INFO - Data encryption enabled for sync
+2025-05-08 06:59:35,821 - terminal - INFO - Data encryption enabled
+2025-05-08 06:59:36,132 - terminal - INFO - Secure offline database initialized
+2025-05-08 06:59:36,146 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 06:59:36,268 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 06:59:36,271 - terminal - INFO - Authentication successful
+2025-05-08 06:59:36,274 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 07:05:00,075 - sync - INFO - Data encryption enabled for sync
+2025-05-08 07:05:00,076 - terminal - INFO - Data encryption enabled
+2025-05-08 07:05:05,690 - sync - INFO - Data encryption enabled for sync
+2025-05-08 07:05:05,691 - terminal - INFO - Data encryption enabled
+2025-05-08 07:05:06,000 - terminal - INFO - Secure offline database initialized
+2025-05-08 07:05:06,017 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 07:05:06,146 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 07:05:06,156 - terminal - INFO - Authentication successful
+2025-05-08 07:05:06,162 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 07:05:06,207 - terminal - INFO - Received from server: {"status": "received", "echo": {"type": "pending_sync", "terminal_id": "265a35da", "count": 4}}
+2025-05-08 07:05:24,350 - sync - INFO - Starting sync to offline database
+2025-05-08 07:05:24,486 - sync - INFO - Offloaded 4 logs...
+2025-05-08 07:05:24,640 - terminal - INFO - Synced 4 secure offline logs
+2025-05-08 07:08:00,814 - sync - INFO - Data encryption enabled for sync
+2025-05-08 07:08:00,815 - terminal - INFO - Data encryption enabled
+2025-05-08 07:08:01,123 - terminal - INFO - Secure offline database initialized
+2025-05-08 07:08:01,137 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 07:08:05,901 - sync - INFO - Starting sync to offline database
+2025-05-08 07:08:05,941 - sync - INFO - Offloaded 0 logs...
+2025-05-08 07:08:05,948 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 07:08:08,396 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 07:08:08,400 - terminal - INFO - Authentication successful
+2025-05-08 07:08:08,404 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 07:12:10,422 - sync - INFO - Data encryption enabled for sync
+2025-05-08 07:12:10,423 - terminal - INFO - Data encryption enabled
+2025-05-08 07:12:14,629 - sync - INFO - Data encryption enabled for sync
+2025-05-08 07:12:14,630 - terminal - INFO - Data encryption enabled
+2025-05-08 07:12:14,939 - terminal - INFO - Secure offline database initialized
+2025-05-08 07:12:14,956 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 07:12:15,079 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 07:12:15,083 - terminal - INFO - Authentication successful
+2025-05-08 07:12:15,086 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 07:21:57,129 - sync - INFO - Data encryption enabled for sync
+2025-05-08 07:21:57,130 - terminal - INFO - Data encryption enabled
+2025-05-08 07:22:01,173 - sync - INFO - Data encryption enabled for sync
+2025-05-08 07:22:01,174 - terminal - INFO - Data encryption enabled
+2025-05-08 07:22:04,353 - sync - INFO - Data encryption enabled for sync
+2025-05-08 07:22:04,355 - terminal - INFO - Data encryption enabled
+2025-05-08 07:22:04,663 - terminal - INFO - Secure offline database initialized
+2025-05-08 07:22:04,679 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 07:22:04,803 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 07:22:04,807 - terminal - INFO - Authentication successful
+2025-05-08 07:22:04,810 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 11:56:07,417 - sync - INFO - Data encryption enabled for sync
+2025-05-08 11:56:07,421 - terminal - INFO - Data encryption enabled
+2025-05-08 11:56:11,452 - sync - INFO - Data encryption enabled for sync
+2025-05-08 11:56:11,453 - terminal - INFO - Data encryption enabled
+2025-05-08 11:56:11,789 - terminal - INFO - Secure offline database initialized
+2025-05-08 11:56:12,009 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 11:56:12,338 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 11:56:12,377 - terminal - INFO - Authentication successful
+2025-05-08 11:56:12,417 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 11:56:12,496 - terminal - INFO - Received from server: {"status": "received", "echo": {"type": "pending_sync", "terminal_id": "265a35da", "count": 9}}
+2025-05-08 11:56:43,788 - sync - INFO - Data encryption enabled for sync
+2025-05-08 11:56:43,790 - terminal - INFO - Data encryption enabled
+2025-05-08 11:56:44,097 - terminal - INFO - Secure offline database initialized
+2025-05-08 11:56:44,313 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 11:56:44,573 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 11:56:44,611 - terminal - INFO - Authentication successful
+2025-05-08 11:56:44,656 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 11:56:44,733 - terminal - INFO - Received from server: {"status": "received", "echo": {"type": "pending_sync", "terminal_id": "265a35da", "count": 9}}
+2025-05-08 11:56:46,279 - sync - INFO - Starting sync to offline database
+2025-05-08 11:56:47,232 - sync - INFO - Offloaded 9 logs...
+2025-05-08 11:56:48,054 - terminal - INFO - Synced 9 secure offline logs
+2025-05-08 11:56:55,196 - sync - INFO - Starting sync to offline database
+2025-05-08 11:56:55,448 - terminal - INFO - Reported scan for card 04de83caee6e80
+2025-05-08 11:56:55,522 - sync - INFO - Offloaded 0 logs...
+2025-05-08 11:56:55,669 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 11:57:03,474 - sync - INFO - Starting sync to offline database
+2025-05-08 11:57:03,712 - terminal - INFO - Reported scan for card 049640caee6e80
+2025-05-08 11:57:03,725 - sync - INFO - Offloaded 0 logs...
+2025-05-08 11:57:03,893 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 11:57:18,285 - sync - INFO - Starting sync to offline database
+2025-05-08 11:57:18,520 - terminal - INFO - Reported scan for card 04de83caee6e80
+2025-05-08 11:57:18,584 - sync - INFO - Offloaded 0 logs...
+2025-05-08 11:57:18,739 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 11:57:41,950 - sync - INFO - Starting sync to offline database
+2025-05-08 11:57:42,187 - terminal - INFO - Reported scan for card 046064caee6e81
+2025-05-08 11:57:42,206 - sync - INFO - Offloaded 0 logs...
+2025-05-08 11:57:42,362 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 11:57:48,612 - sync - INFO - Starting sync to offline database
+2025-05-08 11:57:48,855 - sync - INFO - Offloaded 0 logs...
+2025-05-08 11:57:48,861 - terminal - INFO - Reported scan for card 046064caee6e81
+2025-05-08 11:57:49,010 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 11:57:53,068 - sync - INFO - Starting sync to offline database
+2025-05-08 11:57:53,308 - terminal - INFO - Reported scan for card 047919eaee6e80
+2025-05-08 11:57:53,312 - sync - INFO - Offloaded 0 logs...
+2025-05-08 11:57:53,460 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 12:06:10,839 - sync - INFO - Data encryption enabled for sync
+2025-05-08 12:06:10,841 - terminal - INFO - Data encryption enabled
+2025-05-08 12:06:11,150 - terminal - INFO - Secure offline database initialized
+2025-05-08 12:06:11,342 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 12:06:11,606 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 12:06:11,644 - terminal - INFO - Authentication successful
+2025-05-08 12:06:11,683 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 12:06:16,089 - sync - INFO - Starting sync to offline database
+2025-05-08 12:06:16,342 - sync - INFO - Offloaded 0 logs...
+2025-05-08 12:06:16,501 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 12:06:19,972 - sync - INFO - Starting sync to offline database
+2025-05-08 12:06:20,210 - terminal - INFO - Reported scan for card 047919eaee6e80
+2025-05-08 12:06:20,275 - sync - INFO - Offloaded 0 logs...
+2025-05-08 12:06:20,427 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 12:07:33,659 - sync - INFO - Starting sync to offline database
+2025-05-08 12:07:33,898 - terminal - INFO - Reported scan for card 047919eaee6e80
+2025-05-08 12:07:37,162 - sync - INFO - Offloaded 0 logs...
+2025-05-08 12:07:37,315 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 12:07:39,429 - sync - INFO - Starting sync to offline database
+2025-05-08 12:07:39,668 - terminal - INFO - Reported scan for card 04de83caee6e80
+2025-05-08 12:07:39,670 - sync - INFO - Offloaded 0 logs...
+2025-05-08 12:07:39,832 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 12:08:25,837 - sync - INFO - Starting sync to offline database
+2025-05-08 12:08:26,074 - terminal - INFO - Reported scan for card 04de83caee6e80
+2025-05-08 12:08:26,080 - sync - INFO - Offloaded 0 logs...
+2025-05-08 12:08:26,232 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 12:11:39,227 - sync - INFO - Starting sync to offline database
+2025-05-08 12:11:39,472 - terminal - INFO - Reported scan for card 04de83caee6e80
+2025-05-08 12:11:39,483 - sync - INFO - Offloaded 0 logs...
+2025-05-08 12:11:39,642 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 12:11:45,274 - sync - INFO - Starting sync to offline database
+2025-05-08 12:11:45,529 - terminal - INFO - Reported scan for card 047919eaee6e80
+2025-05-08 12:11:45,609 - sync - INFO - Offloaded 0 logs...
+2025-05-08 12:11:45,769 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 12:11:54,226 - sync - INFO - Starting sync to offline database
+2025-05-08 12:11:54,465 - terminal - INFO - Reported scan for card 046064caee6e81
+2025-05-08 12:11:54,479 - sync - INFO - Offloaded 0 logs...
+2025-05-08 12:11:54,634 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 12:11:56,746 - sync - INFO - Starting sync to offline database
+2025-05-08 12:11:56,987 - sync - INFO - Offloaded 0 logs...
+2025-05-08 12:11:56,989 - terminal - INFO - Reported scan for card 046064caee6e81
+2025-05-08 12:11:57,138 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 12:26:41,836 - terminal - WARNING - Server disconnected
+2025-05-08 12:26:41,837 - terminal - ERROR - Heartbeat failed: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2025-05-08 15:44:22,868 - sync - INFO - Data encryption enabled for sync
+2025-05-08 15:44:22,872 - terminal - INFO - Data encryption enabled
+2025-05-08 15:44:26,828 - sync - INFO - Data encryption enabled for sync
+2025-05-08 15:44:26,829 - terminal - INFO - Data encryption enabled
+2025-05-08 15:44:27,167 - terminal - INFO - Secure offline database initialized
+2025-05-08 15:44:27,738 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 15:44:28,073 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 15:44:28,118 - terminal - INFO - Authentication successful
+2025-05-08 15:44:28,170 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 15:44:55,129 - sync - INFO - Data encryption enabled for sync
+2025-05-08 15:44:55,131 - terminal - INFO - Data encryption enabled
+2025-05-08 15:44:55,438 - terminal - INFO - Secure offline database initialized
+2025-05-08 15:44:55,631 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 15:44:55,904 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 15:44:55,943 - terminal - INFO - Authentication successful
+2025-05-08 15:44:55,981 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 15:44:56,060 - terminal - INFO - Received from server: {"status": "received", "echo": {"type": "pending_sync", "terminal_id": "265a35da", "count": 3}}
+2025-05-08 15:45:04,763 - sync - INFO - Starting sync to offline database
+2025-05-08 15:45:05,215 - sync - INFO - Offloaded 3 logs...
+2025-05-08 15:45:05,677 - terminal - INFO - Synced 3 secure offline logs
+2025-05-08 16:15:07,359 - sync - INFO - Data encryption enabled for sync
+2025-05-08 16:15:07,360 - terminal - INFO - Data encryption enabled
+2025-05-08 16:15:12,593 - sync - INFO - Data encryption enabled for sync
+2025-05-08 16:15:12,594 - terminal - INFO - Data encryption enabled
+2025-05-08 16:15:12,908 - terminal - INFO - Secure offline database initialized
+2025-05-08 16:15:13,138 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 16:15:16,209 - sync - INFO - Starting sync to offline database
+2025-05-08 16:15:16,440 - sync - INFO - Offloaded 0 logs...
+2025-05-08 16:15:16,589 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 16:15:23,216 - terminal - ERROR - WebSocket connection error: timed out during opening handshake
+2025-05-08 16:24:33,408 - sync - INFO - Data encryption enabled for sync
+2025-05-08 16:24:33,409 - terminal - INFO - Data encryption enabled
+2025-05-08 16:24:33,718 - terminal - INFO - Secure offline database initialized
+2025-05-08 16:24:33,913 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 16:24:37,801 - sync - INFO - Starting sync to offline database
+2025-05-08 16:24:38,062 - sync - INFO - Offloaded 0 logs...
+2025-05-08 16:24:38,216 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 16:24:42,797 - sync - INFO - Starting sync to offline database
+2025-05-08 16:24:43,050 - sync - INFO - Offloaded 0 logs...
+2025-05-08 16:24:43,199 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 16:24:43,992 - terminal - ERROR - WebSocket connection error: timed out during opening handshake
+2025-05-08 16:24:52,810 - terminal - ERROR - Failed to connect and report scan: timed out during opening handshake
+2025-05-08 16:25:07,847 - sync - INFO - Starting sync to offline database
+2025-05-08 16:25:08,142 - sync - INFO - Offloaded 0 logs...
+2025-05-08 16:25:08,289 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 16:25:17,857 - terminal - ERROR - Failed to connect and report scan: timed out during opening handshake
+2025-05-08 17:27:23,201 - sync - INFO - Data encryption enabled for sync
+2025-05-08 17:27:23,204 - terminal - INFO - Data encryption enabled
+2025-05-08 17:27:23,555 - terminal - INFO - Secure offline database initialized
+2025-05-08 17:27:23,749 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 17:27:24,053 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 17:27:24,091 - terminal - INFO - Authentication successful
+2025-05-08 17:27:24,133 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 17:27:25,316 - sync - INFO - Starting sync to offline database
+2025-05-08 17:27:26,191 - sync - INFO - Offloaded 0 logs...
+2025-05-08 17:27:26,339 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 17:27:45,161 - sync - INFO - Starting sync to offline database
+2025-05-08 17:27:45,403 - terminal - INFO - Reported scan for card 046064caee6e81
+2025-05-08 17:27:45,487 - sync - INFO - Offloaded 0 logs...
+2025-05-08 17:27:45,639 - terminal - INFO - Synced 0 secure offline logs
+2025-05-08 17:28:05,442 - sync - INFO - Data encryption enabled for sync
+2025-05-08 17:28:05,443 - terminal - INFO - Data encryption enabled
+2025-05-08 17:28:05,754 - terminal - INFO - Secure offline database initialized
+2025-05-08 17:28:05,948 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 17:28:06,217 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 17:28:06,257 - terminal - INFO - Authentication successful
+2025-05-08 17:28:06,294 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 17:28:32,976 - sync - INFO - Data encryption enabled for sync
+2025-05-08 17:28:32,978 - terminal - INFO - Data encryption enabled
+2025-05-08 17:28:33,286 - terminal - INFO - Secure offline database initialized
+2025-05-08 17:28:33,476 - terminal - INFO - Connecting to wss://100.102.124.81:8000 as Terminal 265a35da
+2025-05-08 17:28:33,830 - terminal - INFO - Connected to server, authenticating...
+2025-05-08 17:28:33,838 - sync - INFO - Starting sync to offline database
+2025-05-08 17:28:33,870 - terminal - INFO - Authentication successful
+2025-05-08 17:28:33,908 - terminal - INFO - Received from server: Echo: scanner_265a35da online
+2025-05-08 17:28:33,997 - terminal - INFO - Received from server: {"status": "received", "echo": {"type": "pending_sync", "terminal_id": "265a35da", "count": 3}}
+2025-05-08 17:28:34,331 - sync - INFO - Offloaded 3 logs...
+2025-05-08 17:28:34,693 - terminal - INFO - Synced 3 secure offline logs
